@@ -19,7 +19,5 @@ The Student Registration Application is a simple Java-based application that all
    - Remove student records from the database.
 
 ## Application Setup
-
 gh repo clone SHARAFAHMED3/StudentApplication
-
 
