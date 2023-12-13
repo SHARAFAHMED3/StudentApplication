@@ -20,8 +20,6 @@ The Student Registration Application is a simple Java-based application that all
 
 ## Application Setup
 
-
-    ```bash
 gh repo clone SHARAFAHMED3/StudentApplication
-    ```
+
 
